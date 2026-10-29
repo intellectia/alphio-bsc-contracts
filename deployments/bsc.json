@@ -4,6 +4,14 @@
   "rpc": "https://bsc-dataseed.bnbchain.org",
   "explorer": "https://bscscan.com",
   "contracts": {
-    "AlphioCheckIn": "TBD"
+    "AlphioCheckIn": "0x699746D07BD42A86E04783B74B951Ed1c8129eDb"
+  },
+  "deployments": {
+    "AlphioCheckIn": {
+      "txHash": "0x12ad57b8731120670fada3f3770380139203e38a9d4e5280b0304f0ebced618d",
+      "blockNumber": 130408065,
+      "deployer": "0x83db80d9f49a9658e53349c95a0356c6edf0e887",
+      "sourcify": "exact_match"
+    }
   }
 }

@@ -21,7 +21,7 @@ RPC endpoints are configured in [`foundry.toml`](foundry.toml); deployed address
 
 | Network | AlphioCheckIn |
 |---------|---------------|
-| BNB Mainnet (56) | TBD |
+| BNB Mainnet (56) | [`0x699746D07BD42A86E04783B74B951Ed1c8129eDb`](https://bscscan.com/address/0x699746D07BD42A86E04783B74B951Ed1c8129eDb) |
 | BNB Testnet (97) | — |
 
 ## Contracts
