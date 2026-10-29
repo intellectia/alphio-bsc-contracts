@@ -43,7 +43,7 @@ Daily on-chain check-in for Alphio users on BNB Smart Chain. Any address can cal
 ## Development
 
 ```bash
-git clone --recurse-submodules https://github.com/<org>/alphio-bsc-contracts.git
+git clone --recurse-submodules https://github.com/intellectia/alphio-bsc-contracts.git
 cd alphio-bsc-contracts
 forge build
 forge test
