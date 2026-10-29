@@ -1,0 +1,9 @@
+{
+  "network": "BNB Smart Chain Mainnet",
+  "chainId": 56,
+  "rpc": "https://bsc-dataseed.bnbchain.org",
+  "explorer": "https://bscscan.com",
+  "contracts": {
+    "AlphioCheckIn": "TBD"
+  }
+}
