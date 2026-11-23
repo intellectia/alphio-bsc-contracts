@@ -1,0 +1,16 @@
+{
+  "network": "BNB Smart Chain Testnet",
+  "chainId": 97,
+  "rpc": "https://bsc-testnet-rpc.publicnode.com",
+  "explorer": "https://testnet.bscscan.com",
+  "contracts": {
+    "AlphioCheckIn": "0x699746D07BD42A86E04783B74B951Ed1c8129eDb"
+  },
+  "deployments": {
+    "AlphioCheckIn": {
+      "txHash": "0xa48578ce0d50fbbcf854bd80576eab851895e81b3af3c8a9eba69b6903909d29",
+      "blockNumber": 144360874,
+      "deployer": "0x83db80d9f49a9658e53349c95a0356c6edf0e887"
+    }
+  }
+}
